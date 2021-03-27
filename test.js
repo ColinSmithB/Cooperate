@@ -15,5 +15,8 @@ var obj = {
 
 		alert('1')
 
+	},
+	colin:function() {
+		console.log('Colin 新键的分支')
 	}
 }
