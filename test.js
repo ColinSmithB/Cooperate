@@ -20,5 +20,6 @@ var obj = {
 	colin:function() {
 		console.log('Colin 新键的分支')
 		console.log('Colin 再次练习分支')
+		console.log('Colin 再次练习分支2')
 	}
 }
